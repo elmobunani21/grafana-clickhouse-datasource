@@ -1,0 +1,41 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "grafana",
+  "signedByOrg": "grafana",
+  "signedByOrgName": "Grafana Labs",
+  "plugin": "grafana-clickhouse-datasource",
+  "version": "2.2.0",
+  "time": 1679595501204,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "CHANGELOG.md": "f79f45377225e9f45bcd4532d91a2ee014b1beabaad4c861f3c2ccc32e5f6f9a",
+    "LICENSE": "cdd15e614b50e88443fe574ad56bde5ba697d958a45376431638eea816e3bfc3",
+    "README.md": "da1ece921b4bc2c1de0c0e16f86559f740c53a4310e8c73aceb584f21b0079ba",
+    "dashboards/cluster-analysis.json": "e5be94806dcef74e8948230234845e1adebce2f69e50abae0cb73550ac07ff3d",
+    "dashboards/data-analysis.json": "cfc36e74161ee07691fc8fd96873c6f858afab08a24400104e6a59de608a3b3d",
+    "dashboards/query-analysis.json": "47b28a56a00f0b418dbee317eb43748cb4270b0c2f1bfdee5915bfecb2c05a14",
+    "go_plugin_build_manifest": "bb0047c559ce6b1866a6cc67d736362f29bbcdcb865948aaa031b08cea711463",
+    "gpx_clickhouse_linux_amd64": "eff14fbb6f53471843bd43180080a399ca39de79d6b4b2c2532dbb69e63fc12c",
+    "img/logo.png": "57b548fd842706f2845514f661aed5d4b4aeefeb6b6a891bac7cc0392b3ac060",
+    "img/logo.svg": "1defc6f7e585c67657bcfd8fddc599ee7dfa82f8674413f49fa274c2cd453ec6",
+    "module.js": "6730a5361e10f5b84024337b759482fc1f3720659883dddda6e45bfab036bb96",
+    "module.js.LICENSE.txt": "4de3dd152c804e513c23fbd7d770c3ee1a035af760fb00c3063c66979be3afa4",
+    "module.js.map": "ca1976140b781b0924f67dcacddd9fa988d92a62341bfd58c50ec4add012e52a",
+    "plugin.json": "6e1ae35a5342b9f7850e92730824c67d49295fdc3adf2b9ee1ff9cea20a4b15b"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrgEARMKAAYFAmQcl+0AIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm525rAgY3JgzE6dR+MYUfEnsnJ6Hc9zmeSXu9dtt3oEO7G4jIdNEzY2YC
+idOkp9wxPPYQenq86sxTfu/zswSmcClu7oTXswIJAbPaAWz7hXgFQMur9zTt
+IDFT/W69HN+2RlRAYEF9pMYJRS0hFpQktf6S9cT9EKrhrBhACi/AiSMCEeMX
+B2+KG2um
+=2iov
+-----END PGP SIGNATURE-----
